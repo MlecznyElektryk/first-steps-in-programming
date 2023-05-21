@@ -5,3 +5,4 @@
 fgets/
 #najpierw stagujemy a dopiero pozniej commitujemy tzn git add .
 # teraz git status - komenda do zobaczenia co sie dzieje sie
+# commit zawsze musi miec komentarz -m tj co wprowadzamy nowego - zmiany
