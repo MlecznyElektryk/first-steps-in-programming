@@ -1,0 +1,7 @@
+# mogem zapisywac co chce zignorowac przy commitach, a pushuje wszystkie commity
+.vscode/
+# gwiazda.exe wywala wszystkie pliki exe
+*.exe 
+fgets/
+#najpierw stagujemy a dopiero pozniej commitujemy tzn git add .
+# teraz git status - komenda do zobaczenia co sie dzieje sie
